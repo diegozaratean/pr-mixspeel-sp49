@@ -1,0 +1,19 @@
+Soy Álvaro Seguro Sanchez, estoy estudiando un Bootcamp de FullStack Developer en 4GeeksAcademy y hasta ahora hemos aprendido los siguientes lenguajes:
+
+HTML
+CSS
+Bootstrap (CSS)
+
+También estamos aprendiendo a utilizar herramientas y plataformas como:
+
+Github
+CodeSpaces
+Gitpod
+Terminal de Linux
+
+Y pronto aprenderemos otros lenguajes conocidos como:
+
+React
+Javascript
+SQL
+Python
